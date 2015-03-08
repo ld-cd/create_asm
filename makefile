@@ -1,4 +1,4 @@
-CC = clang
+CC = cc
 CFLAGS = -Wall -O2 -std=gnu99
 LDFLAGS =
 
